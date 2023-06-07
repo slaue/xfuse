@@ -27,7 +27,6 @@ tensorboard = "^2.5.0"
 tifffile = "^2020.10.1"
 tomlkit = "^0.7.0"
 torch = "^1.8.1"
-torchvision = "^0.9.1"
 tqdm = "^4.51.0"
 tabulate = "^0.8.7"
 
